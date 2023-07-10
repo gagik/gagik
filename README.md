@@ -9,6 +9,5 @@
     - [Hoagie Stuff](https://github.com/HoagieClub/stuff), a campus bulletin board with weekly digest emails, regularly used by hundreds for their lost and found items, clothing sales, and more.
     - [Hoagie Mail](https://github.com/HoagieClub/mail), which is used by campus organizations, academic departments, and more to send communications to the entire undergraduate population, having sent more than 44,000 mass emails and counting. 
     - **Hoagie API**, a centralized REST API for campus data and powering all of our apps using Go, MongoDB, and Auth0. Currently closed-source.
-- Some random programming assignment I did for fun around [7 years ago](https://github.com/gagik/ProgrammingAssignment2) that I still keep here for some reason. I don't even remember the R syntax anymore.
 
 While you are at it, you can also check out my website at [gagik.co](https://gagik.co/) where some things may be more visual and its (rather outdated) [source code](https://github.com/gagik/gagik.github.io).
